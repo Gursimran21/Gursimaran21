@@ -8,33 +8,33 @@ To install the **Cursor IDE** on your desktop, follow these steps:
 
 **Download the Installer:**
 
-**1.** Visit the official [Cursor website](https://cursor.com/).
+1. Visit the official [Cursor website](https://cursor.com/).
 
-**2.** Click the **Download** button located at the top-left corner of the homepage.
+2. Click the **Download** button located at the top-left corner of the homepage.
 
-**3.** On the download page, scroll down to locate the installer specific to your operating system (macOS, Windows, or Linux).
+3. On the download page, scroll down to locate the installer specific to your operating system (macOS, Windows, or Linux).
 
-**4.** Select the version that matches your system architecture (e.g., Mac ARM64/x64, Windows x64/ARM64, or the appropriate Linux format) and click the download icon.
+4. Select the version that matches your system architecture (e.g., Mac ARM64/x64, Windows x64/ARM64, or the appropriate Linux format) and click the download icon.
 
 **Run the Installer:**
 
-**1.** Once the download completes, locate the file in your browser's download manager or your computer's "Downloads" folder.
+1. Once the download completes, locate the file in your browser's download manager or your computer's "Downloads" folder.
 
-**2.** Double-click the installer file (e.g., ```CursorUserSetUp-x64-x.x.x.exe```) to launch the setup wizard.
+2. Double-click the installer file (e.g., ```CursorUserSetUp-x64-x.x.x.exe```) to launch the setup wizard.
 
 **Complete the Installation:**
 
-**1.** **License Agreement:** Read the agreement, select "I accept the agreement," and click **Next**.
+1. **License Agreement:** Read the agreement, select "I accept the agreement," and click **Next**.
 
-**2.** **Destination:** Keep the default installation location and click **Next**.
+2. **Destination:** Keep the default installation location and click **Next**.
 
-**3.** **Start Menu:** Keep the default settings and click **Next**.
+3. **Start Menu:** Keep the default settings and click **Next**.
 
-**4.** **Additional Tasks:** You may choose to "Create a desktop icon" for easier access. The default selections (registering file types and adding to PATH) are recommended. Click **Next**.
+4. **Additional Tasks:** You may choose to "Create a desktop icon" for easier access. The default selections (registering file types and adding to PATH) are recommended. Click **Next**.
 
-**5.** **Install:** Review your settings and click **Install**.
+5. **Install:** Review your settings and click **Install**.
 
-**6.** **Finish:** Once the installation progress bar completes, click **Finish** to close the setup wizard.
+6. **Finish:** Once the installation progress bar completes, click **Finish** to close the setup wizard.
     
 ## **How to add Claude Code extension in Cursor**
 
@@ -42,11 +42,11 @@ To add the **Claude Code** extension in Cursor, follow these steps:
 
 **Install the Claude Code Extension**
 
-**1.** Open Cursor and navigate to the Extensions view by clicking the square icon in the sidebar or using the shortcut ```Ctrl+Shift+X``` (Windows/Linux) or ```Cmd+Shift+X``` (Mac).
+1. Open Cursor and navigate to the Extensions view by clicking the square icon in the sidebar or using the shortcut ```Ctrl+Shift+X``` (Windows/Linux) or ```Cmd+Shift+X``` (Mac).
 
-**2.** In the search bar, type **Claude Code**.
+2. In the search bar, type **Claude Code**.
 
-**3.** Locate the official **Claude Code** extension by Anthropic and click **Install**.
+3. Locate the official **Claude Code** extension by Anthropic and click **Install**.
 
 ## **How to Log In to the Claude Code extension in Cursor**
 
@@ -54,7 +54,7 @@ To log in to the **Claude Code extension** within the Cursor IDE, follow these s
 
 **Log In Claude Code and Connect**
 
-**1. Open the Claude Code Panel**
+1. **Open the Claude Code Panel**
 
    Once you have installed the "Claude Code" extension from the Cursor/VS Code marketplace, you need to open its interface:
 
@@ -64,7 +64,7 @@ To log in to the **Claude Code extension** within the Cursor IDE, follow these s
   
 - **Via Command Palette:** Press ```Cmd+Shift+P``` (Mac) or ```Ctrl+Shift+P``` (Windows/Linux),   type **"Claude Code"**, and select an option like **"Open in New Tab"**.
 
-**2. Sign In to Claude Code**
+2. **Sign In to Claude Code**
 
 - The first time you open the Claude Code panel, a **"Sign in"** screen will appear automatically.
   
@@ -92,13 +92,13 @@ To add the **OpenAI Codex** extension in Cursor, follow these steps:
 
 **Install the Codex Extension**
 
-**1.** Open the Cursor IDE on your computer.
+1. Open the Cursor IDE on your computer.
 
-**2.** Navigate to the **Extensions** view by clicking the extensions icon in the Activity Bar (usually on the left) or by pressing ```Ctrl+Shift+X (Cmd+Shift+X``` on Mac).
+2. Navigate to the **Extensions** view by clicking the extensions icon in the Activity Bar (usually on the left) or by pressing ```Ctrl+Shift+X (Cmd+Shift+X``` on Mac).
 
-**3.** In the search bar at the top of the Extensions view, type **"Codex"**.
+3. In the search bar at the top of the Extensions view, type **"Codex"**.
 
-**4.** Locate the official **"OpenAI Codex"** extension (often titled "Codex: OpenAI coding assistant") and click **Install**. Once installed, you may need to restart Cursor or click the reload button if prompted.
+4. Locate the official **"OpenAI Codex"** extension (often titled "Codex: OpenAI coding assistant") and click **Install**. Once installed, you may need to restart Cursor or click the reload button if prompted.
 
 ## **How to Log In to the Codex extension in Cursor**
 
@@ -106,13 +106,13 @@ To log in to the **Codex extension** within the Cursor IDE, follow these steps:
 
 **Log In Codex and Connect**
 
-**1. Open the Codex Panel**
+1. **Open the Codex Panel**
 
 - Look for the **Codex icon** that should now appear in your Activity Bar (or click the triple dot menu ```...``` to find "Open Codex").
   
 - Click on the icon to open the Codex panel. You will be prompted with a **"Sign in"** button.
 
-**2. Sign In to Codex**
+2. **Sign In to Codex**
    
 - Select **Sign in with ChatGPT.** This will open your default web browser.
   
@@ -120,7 +120,7 @@ To log in to the **Codex extension** within the Cursor IDE, follow these steps:
   
 - After successful authentication in the browser, you may be redirected back to Cursor, where the Codex interface will now be active.
 
-**3. Alternative Login (API Key)**
+3. **Alternative Login (API Key)**
 
    If you prefer not to use browser-based login, you can manually authenticate using an **OpenAI API key:**
    
@@ -140,8 +140,8 @@ If you are using a legacy "Codex" extension for VS Code:
 
 ## **References**
 
-**1.** [Cursor IDE: Installation Guide](https://cursor.com/docs/get-started/quickstart).
+1. [Cursor IDE: Installation Guide](https://cursor.com/docs/get-started/quickstart).
 
-**2.** [Complete Guide of Claude Code extension in Cursor](https://code.claude.com/docs/en/vs-code).
+2. [Complete Guide of Claude Code extension in Cursor](https://code.claude.com/docs/en/vs-code).
 
-**3.** [Complete Guide of Codex extension in Cursor](https://developers.openai.com/codex/ide).
+3. [Complete Guide of Codex extension in Cursor](https://developers.openai.com/codex/ide).
