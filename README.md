@@ -1,4 +1,4 @@
-<!-- # Gursimaran21 -->
+# Gursimaran21
 
 # 100Hires Tools: Installation & Setup Guide
 
