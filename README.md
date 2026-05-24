@@ -137,3 +137,11 @@ If you are using a legacy "Codex" extension for VS Code:
 - **Multiple Accounts:** If you are signed into multiple OpenAI/ChatGPT accounts in your browser, try signing out of all of them, restarting your browser, and then initiating the sign-in from VS Code again.
   
 - **Extension Conflicts:** Sometimes other AI extensions (like GitHub Copilot or other coding assistants) conflict with Codex's authentication. Try disabling other AI extensions temporarily to see if the sign-in succeeds.
+
+## **References**
+
+**1.** [Cursor IDE: Installation Guide](https://cursor.com/docs/get-started/quickstart).
+
+**2.** [Complete Guide of Claude Code extension in Cursor](https://code.claude.com/docs/en/vs-code).
+
+**3.** [Complete Guide of Codex extension in Cursor](https://developers.openai.com/codex/ide).
