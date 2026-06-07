@@ -52,7 +52,7 @@ To add the **Claude Code** extension in Cursor, follow these steps:
 
 To log in to the **Claude Code extension** within the Cursor IDE, follow these steps:
 
-**Log In Claude Code and Connect**
+**Log In to Claude Code and Connect**
 
 1. **Open the Claude Code Panel**
 
@@ -104,7 +104,7 @@ To add the **OpenAI Codex** extension in Cursor, follow these steps:
 
 To log in to the **Codex extension** within the Cursor IDE, follow these steps:
 
-**Log In Codex and Connect**
+**Log In to Codex and Connect**
 
 1. **Open the Codex Panel**
 
