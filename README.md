@@ -1,4 +1,4 @@
-# Gursimaran21
+# 100Hires-Portfolio-Project-2026
 
 # 100Hires Tools: Installation & Setup Guide
 
